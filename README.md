@@ -1,5 +1,5 @@
 # Pizza-Web-Application
-Pizza ordering website using raw HTML, CSS, Javascript.
+Pizza ordering website using pure HTML, CSS, Javascript. 🍕
 
 Project Brief:
 
