@@ -19,4 +19,6 @@ Project Brief:
 
 * Finally, using Selenium (Selenium) test your application - This autonomous tool is used throughout the industry to perform tests on web applications. 
 
+Key:
+
 ✅ = Complete 🟠 = In Progress
