@@ -2,7 +2,6 @@
 Pizza ordering website using pure HTML, CSS, Javascript. 🍕
 
 Project Brief:
-✅ = Complete 🟠 = In Progress
 
 * Build a webpage that displays a selection of Pizza, Side order, Drinks and Desserts. ✅
 
@@ -19,3 +18,5 @@ Project Brief:
 * Ensure that your page has images and consider the user experience when building this. ✅
 
 * Finally, using Selenium (Selenium) test your application - This autonomous tool is used throughout the industry to perform tests on web applications. 
+
+✅ = Complete 🟠 = In Progress
